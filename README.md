@@ -12,7 +12,7 @@ ________________________________________________________________________________
 * [Prototipagem - XD / Figma](https://github.com/ricardaonao/Prototipagem)
 
 ## Back End
-* [APIse Server](https://github.com/ricardaonao/APIs)
+* [APIs e Server](https://github.com/ricardaonao/APIs)
 * [Banco de dados SQL]()
 
 ## Mobile
